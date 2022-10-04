@@ -1,4 +1,5 @@
 ---
+avatar_filename: avatar.jpg
 bio: My research interests include political economy and economic history
 interests: []
 social:
