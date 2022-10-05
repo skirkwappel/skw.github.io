@@ -27,8 +27,8 @@ author_notes: []
 publication_short: ""
 url_source: ""
 url_video: ""
-publication: "*University of California Undergraduate Journal of Slavic and
-  East/Central European Studies (14)"
+publication: University of California Undergraduate Journal of Slavic and
+  East/Central European Studies (14)
 featured: false
 date: 2021-08-22T00:00:00.000Z
 url_slides: ""
