@@ -18,9 +18,6 @@ publication_types:
   - "2"
 authors:
   - admin
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
 publication: University of California Undergraduate Journal of Slavic and
   East/Central European Studies (14)
 featured: false
