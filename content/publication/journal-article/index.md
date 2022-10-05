@@ -13,7 +13,7 @@ abstract: Scholars often cite George Sand as one of Dostoevsky’s major
   equals to their male counterparts, resulting in a better relationship between
   the two as well as with those who surround them.
 slides: ""
-url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://www.international.ucla.edu/media/files/kirker_ug_2021-be-23m.pdf)
+url_pdf: https://www.international.ucla.edu/media/files/kirker_ug_2021-be-23m.pdf
 publication_types:
   - "2"
 authors:
