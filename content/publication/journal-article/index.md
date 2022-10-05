@@ -13,7 +13,7 @@ abstract: Scholars often cite George Sand as one of Dostoevsky’s major
   equals to their male counterparts, resulting in a better relationship between
   the two as well as with those who surround them.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://www.international.ucla.edu/media/files/kirker_ug_2021-be-23m.pdf)
 publication_types:
   - "2"
 authors:
@@ -21,12 +21,6 @@ authors:
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
-url_dataset: ""
-url_project: ""
-author_notes: []
-publication_short: ""
-url_source: ""
-url_video: ""
 publication: University of California Undergraduate Journal of Slavic and
   East/Central European Studies (14)
 featured: false
@@ -34,15 +28,4 @@ date: 2021-08-22T00:00:00.000Z
 url_slides: ""
 title: "The Power of Innocence, Honesty, and Purity: The Edmee Character in
   Dostoevsky’s Novels"
-tags:
-  - Source Themes
-projects: []
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
-  focal_point: ""
-  preview_only: false
-publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-doi: ""
 ---
