@@ -18,9 +18,6 @@ url_pdf: https://static1.squarespace.com/static/57f7f6666a496306c82af376/t/631bd
 publication_types:
   - "2"
 authors: []
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 publication: IONA Journal (7)
 featured: false
