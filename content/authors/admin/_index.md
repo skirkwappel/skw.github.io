@@ -5,13 +5,13 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#skirk.wappel@gmail.com
+    link: skirk.wappel@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/skirkwappel
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/sarah-kirk-wappel
+    link: "www.linkedin.com/in/sarah-kirk-wappel"
 organizations:
   - name: Center for Innovative Data in Economics Research
     url: https://economics.ubc.ca/research/research-centres/cider/
