@@ -2,7 +2,7 @@
 widget: collection
 widget_id: publications
 weight: 90
-title: Recent Publications
+title: Research and Publications
 subtitle: ""
 content:
   filters:
