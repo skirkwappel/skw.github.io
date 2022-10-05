@@ -3,7 +3,7 @@ title: The Effect of Institutional and Cultural Persistence of the
   Austro-Hungarian Empire on Conflict in the Yugoslav Wars
 publication_types:
   - "0"
-url: https://github.com/skirkwappel/ECON594/blob/main/Wappel_594_Paper.pdf
+url_pdf: https://github.com/skirkwappel/ECON594/blob/main/Wappel_594_Paper.pdf
 draft: false
 featured: false
 image:
