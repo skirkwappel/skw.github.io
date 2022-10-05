@@ -1,6 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests include political economy and economic history
+bio: UBC CIDER Predoc
 interests: []
 social:
   - icon: envelope
