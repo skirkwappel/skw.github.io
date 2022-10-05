@@ -5,13 +5,13 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#skirk.wappel@gmail.com
+    link: mailto:skirk.wappel@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/skirkwappel
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/sarah-kirk-wappel
+    link: https://www.linkedin.com/in/sarah-kirk-wappel
 organizations:
   - name: Center for Innovative Data in Economics Research
     url: https://economics.ubc.ca/research/research-centres/cider/
@@ -24,7 +24,7 @@ education:
       institution: University of British Columbia
       year: 2021
 superuser: true
-last_name: Bighetti
+last_name: Wappel
 role: Pre-Doctoral Research Fellow
 highlight_name: true
 title: Sarah Wappel
