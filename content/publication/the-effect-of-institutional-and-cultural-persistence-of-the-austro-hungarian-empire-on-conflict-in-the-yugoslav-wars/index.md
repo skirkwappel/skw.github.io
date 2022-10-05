@@ -4,7 +4,7 @@ title: The Effect of Institutional and Cultural Persistence of the
 publication_types:
   - "0"
 url_pdf: https://github.com/skirkwappel/ECON594/blob/main/Wappel_594_Paper.pdf
-draft: false
+draft: true
 featured: false
 image:
   filename: featured
