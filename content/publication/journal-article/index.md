@@ -25,7 +25,6 @@ publication: University of California Undergraduate Journal of Slavic and
   East/Central European Studies (14)
 featured: false
 date: 2021-08-22T00:00:00.000Z
-url_slides: ""
 title: "The Power of Innocence, Honesty, and Purity: The Edmee Character in
   Dostoevsky’s Novels"
 ---
