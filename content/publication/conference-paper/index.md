@@ -13,8 +13,8 @@ abstract: Permits with high royalty costs are the medium through which mountain
   outcomes and more risk aversion among certain climbers, but that these higher
   costs are correlated with sizable negative externalities where risk outcomes
   increase significantly on other peaks in the region.
-slides: ""
-url_pdf: ""
+slides: "https://github.com/skirkwappel/ECON499/blob/main/Slides.pdf"
+url_pdf: https://static1.squarespace.com/static/57f7f6666a496306c82af376/t/631bdc0ee262f068e08e32f3/1662770220730/IONA-2022-Volume-VII.pdf
 publication_types:
   - "2"
 authors: []
@@ -22,26 +22,15 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-url_project: ""
-author_notes: []
-publication_short: ""
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
 publication: IONA Journal (7)
 featured: false
 date: 2022-09-02T00:00:00.000Z
 url_slides: ""
 title: "The Effect of Increased Fixed Costs on High-Risk Decision Making:
   Evidence from Mount Everest"
-tags: []
-projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: https://github.com/skirkwappel/ECON499
 doi: ""
 ---
 
