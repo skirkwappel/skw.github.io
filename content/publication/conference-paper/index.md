@@ -27,7 +27,7 @@ author_notes: []
 publication_short: ""
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
-publication: In IONA Journal 7
+publication: IONA Journal (7)
 featured: false
 date: 2022-09-02T00:00:00.000Z
 url_slides: ""
