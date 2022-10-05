@@ -4,7 +4,7 @@ title: The Effect of Institutional and Cultural Persistence of the
 publication_types:
   - "0"
 url_pdf: the-effect-of-institutional-and-cultural-persistence-of-the-austro-hungarian-empire-on-conflict-in-the-yugoslav-wars/Wappel_594_Paper.pdf
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
