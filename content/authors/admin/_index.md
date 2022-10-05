@@ -11,7 +11,7 @@ social:
     link: https://github.com/skirkwappel
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/sarah-wappel-a5399720b/
+    link: www.linkedin.com/in/sarah-kirk-wappel
 organizations:
   - name: Center for Innovative Data in Economics Research
     url: https://economics.ubc.ca/research/research-centres/cider/
