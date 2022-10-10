@@ -13,7 +13,7 @@ abstract: Permits with high royalty costs are the medium through which mountain
   outcomes and more risk aversion among certain climbers, but that these higher
   costs are correlated with sizable negative externalities where risk outcomes
   increase significantly on other peaks in the region.
-url_slides: https://github.com/skirkwappel/ECON499/blob/main/Slides.pdf
+slides: https://github.com/skirkwappel/ECON499/blob/main/Slides.pdf
 url_pdf: https://static1.squarespace.com/static/57f7f6666a496306c82af376/t/631bdc0ee262f068e08e32f3/1662770220730/IONA-2022-Volume-VII.pdf
 publication_types:
   - "2"
@@ -30,13 +30,3 @@ url_poster: ""
 url_code: https://github.com/skirkwappel/ECON499
 doi: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
