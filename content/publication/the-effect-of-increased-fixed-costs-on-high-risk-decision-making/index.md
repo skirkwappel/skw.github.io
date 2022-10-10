@@ -14,12 +14,19 @@ abstract: Permits with high royalty costs are the medium through which mountain
   costs are correlated with sizable negative externalities where risk outcomes
   increase significantly on other peaks in the region.
 url_pdf: https://static1.squarespace.com/static/57f7f6666a496306c82af376/t/631bdc0ee262f068e08e32f3/1662770220730/IONA-2022-Volume-VII.pdf
+<<<<<<< HEAD:content/publication/the-effect-of-increased-fixed-costs-on-high-risk-decision-making/index.md
 url_dataset: https://www.dropbox.com/sh/m8d0uik3l0kmddu/AABPiEr6ZGWpkM4O8TaC0jDPa?dl=0
 url_slides: https://github.com/skirkwappel/ECON499/blob/main/Slides.pdf
 url_code: https://github.com/skirkwappel/ECON499
 publication_types:
   - "0"
 authors: Sarah Wappel
+=======
+publication_types:
+  - "2"
+authors: []
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+>>>>>>> parent of 7466423 (Update index.md):content/publication/conference-paper/index.md
 publication: IONA Journal (7)
 featured: false
 date: 2022-09-02T00:00:00.000Z
