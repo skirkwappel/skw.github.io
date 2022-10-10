@@ -8,7 +8,7 @@ url_code: https://github.com/skirkwappel/ECON594
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2022-10-05T01:25:16.561Z
