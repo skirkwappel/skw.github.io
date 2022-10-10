@@ -13,7 +13,7 @@ abstract: Permits with high royalty costs are the medium through which mountain
   outcomes and more risk aversion among certain climbers, but that these higher
   costs are correlated with sizable negative externalities where risk outcomes
   increase significantly on other peaks in the region.
-slides: "https://github.com/skirkwappel/ECON499/blob/main/Slides.pdf"
+url_slides: https://github.com/skirkwappel/ECON499/blob/main/Slides.pdf
 url_pdf: https://static1.squarespace.com/static/57f7f6666a496306c82af376/t/631bdc0ee262f068e08e32f3/1662770220730/IONA-2022-Volume-VII.pdf
 publication_types:
   - "2"
