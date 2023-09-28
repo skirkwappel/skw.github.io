@@ -13,8 +13,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/sarah-kirk-wappel
 organizations:
-  - name: Center for Innovative Data in Economics Research
-    url: https://economics.ubc.ca/research/research-centres/cider/
+  - name:
+    url:
 education:
   courses:
     - course: MA in Economics
@@ -25,10 +25,10 @@ education:
       year: 2021
 superuser: true
 last_name: Wappel
-role: Pre-Doctoral Research Fellow
+role: 
 highlight_name: true
 title: Sarah Wappel
 first_name: Sarah
 email: ""
 ---
-I am a Pre-Doctoral Research Fellow at the [Center for Innovative Data in Economics Research](https://economics.ubc.ca/research/research-centres/cider/) at the University of British Columbia Vancouver School of Economics. I work under Professor [Réka Juhász](http://www.rjuhasz.com/). I recently completed a *Masters of Arts in Economics* at the University of British Columbia, and I also obtained my *Bachelor of Arts Honours in Economics* from the same department in 2021.
+I am a trained economist with a comprehensive skill set and solid academic background seeking an economist position. I have extensive, in-depth knowledge and experience in conducting both qualitative and quantitative research, economic theory and empirical analysis, developing efficient workflows, and managing large data. Previously, I was a Pre-Doctoral Research Fellow at the [Center for Innovative Data in Economics Research](https://economics.ubc.ca/research/research-centres/cider/) at the University of British Columbia Vancouver School of Economics, where I worked under Professor [Réka Juhász](http://www.rjuhasz.com/). I was also a member of the [Industrial Policy Group](https://www.industrialpolicygroup.com/) I have both a *Masters of Arts in Economics* and a *Bachelor of Arts Honours in Economics* from the University of British Columbia.
